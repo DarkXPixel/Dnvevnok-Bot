@@ -46,6 +46,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
+*.db
 *.py,cover
 .hypothesis/
 .pytest_cache/
@@ -116,7 +117,7 @@ celerybeat.pid
 .venv
 env/
 venv/
-datebases/
+datebases/acounts.db
 ENV/
 env.bak/
 venv.bak/
